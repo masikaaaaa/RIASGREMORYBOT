@@ -16,7 +16,7 @@
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
         "value": "false",
-        "required": true
+        "required": false 
       },
       "USER_IMAGES": {
         "description": "Menu Images",

@@ -16,7 +16,7 @@
       "WELCOME": {
         "description": "put 'false' or 'true' to enable & disable WELCOME ",
         "value": "false",
-        "required": false 
+        "required": true 
       },
       "USER_IMAGES": {
         "description": "Menu Images",
@@ -27,7 +27,7 @@
       "GOODBYE": {
         "description": "put 'false' or 'true' to enable & disable GOODBYE ",
         "value": "false",
-        "required": false
+        "required": true
       },
       "MENU": {
         "description": "choose 1, 2, 3",
@@ -40,7 +40,7 @@
       "BOT_NAME": {
         "description": " NAME FOR BOT",
         "required": false,
-        "value": "RIAS_GREMORY-BOT"
+        "value": "LEON_GREMORY-BOT"
       },
       "TZ": {
         "description": "Put TIME_ZONE according to your location",
@@ -115,7 +115,7 @@
       },
       "PACK_NAME": {
         "description": "Put Sticker Pack_Name.",
-        "value": "Asta Md",
+        "value": "Leoni Md",
         "required": false
       },
       "PACK_AUTHER": {
